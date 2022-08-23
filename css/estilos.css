@@ -1,0 +1,80 @@
+body {
+    background-color: #293239;
+}
+.titulo {
+    background-color: white;
+    color: #688494;
+    text-align: center;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 42px;
+}
+
+p {
+    font-family: 'Lucida Sans Unicode', 'Lucida Grande', sans-serif;
+    color: #b4c0c5;
+}
+
+.Aspiradora {
+    color: #f1d3c6;
+    font-size: 32px;
+    font-family: Impact, Charcoal, sans-serif;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.foto1{
+    margin-left: 40px;
+    border: 5px solid #e4c5b9;
+}
+
+.celulares {
+    color:#a5c6d0;
+    font-size: 32px;
+    font-family: Impact, Charcoal, sans-serif;
+    font-weight: 200;
+    font-style: italic;
+
+
+}
+.foto2 {
+    margin-left: 40px;
+    border: 5px solid #a5c6d0;
+}
+
+.consola {
+    color:#bcbdbf;
+    font-size: 32px;
+    font-family: Impact, Charcoal, sans-serif;
+    font-weight: 200;
+    font-style: italic;
+}
+.foto3 {
+    margin-left: 40px;
+    border: 5px solid #bcbdbf;
+}
+
+.Home {
+    color:#9299a6;
+    font-size: 32px;
+    font-family: Impact, Charcoal, sans-serif;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.foto4 {
+    margin-left: 40px;
+    border: 5px solid #9299a6;
+}
+.televisores {
+    color:#bbbab1;
+    font-size: 32px;
+    font-family: Impact, Charcoal, sans-serif;
+    font-weight: 200;
+    font-style: italic;
+}
+
+.foto5 {
+    margin-left: 40px;
+    border: 5px solid #bbbab1;
+}
+
